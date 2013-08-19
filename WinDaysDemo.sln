@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinDaysDemo", "WinDaysDemo\WinDaysDemo.csproj", "{2BD608A0-760D-4D02-8462-643823A2F7ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinDaysDemoPlugin", "WinDaysDemoPlugin\WinDaysDemoPlugin.csproj", "{A1CFA63C-51CD-4D23-B60C-0053DCC274AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BD608A0-760D-4D02-8462-643823A2F7ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BD608A0-760D-4D02-8462-643823A2F7ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BD608A0-760D-4D02-8462-643823A2F7ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BD608A0-760D-4D02-8462-643823A2F7ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1CFA63C-51CD-4D23-B60C-0053DCC274AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1CFA63C-51CD-4D23-B60C-0053DCC274AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1CFA63C-51CD-4D23-B60C-0053DCC274AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1CFA63C-51CD-4D23-B60C-0053DCC274AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
