@@ -1,4 +1,4 @@
 WinDays13Demo
 =============
 
-Demo project from Microsoft WinDays13 conference.
+This repository contains demo source code used in my lecture given on WinDays13conference. This lecture demonstrated various techniques for extending ASP.NET MVS application without changing core source code.
